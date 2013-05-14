@@ -7,11 +7,15 @@ console.log(yearBorn);
 
 alert(yearBorn);
 
-var age; age = 30;
+var age; age = 30; //number variable
 
-var yearOfBirth = 1982;
+var yearOfBirth = 1982; 
 
+var isStudent = false; //boolean variable
 
+var firstName = "Brent";
+
+var phrase = 'I don\'t know \n You\'ll have to speak to the professor; ;
 
 
 
