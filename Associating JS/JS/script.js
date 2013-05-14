@@ -7,4 +7,13 @@ console.log(yearBorn);
 
 alert(yearBorn);
 
-var age; 
+var age; age = 30;
+
+var yearOfBirth = 1982;
+
+
+
+
+
+
+
