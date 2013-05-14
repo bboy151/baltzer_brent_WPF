@@ -15,7 +15,11 @@ var isStudent = false; //boolean variable
 
 var firstName = "Brent";
 
-var phrase = 'I don\'t know \n You\'ll have to speak to the professor; ;
+var phrase = 'I don\'t know You\'ll have to speak to the professor';
+
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo"]; //0,1,2
+
+console.log(muppetNames [0]);
 
 
 
